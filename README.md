@@ -1,4 +1,3 @@
-Pàgina web de demo
 # PLA DE PROJECTE#
 Elaborar una pàgina web que permeti als consumidors filtrar per gèneres musicals els diversos festivals que es duen a terme a Europa. Amb aquesta mesura s'intentarà pel·liar la falta d'informació clara si es prefereix un génere de musica en concret i es donaran a conèixer festivals que no eren tan reconeguts fins ara. 
 
