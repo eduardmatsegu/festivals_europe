@@ -7,5 +7,5 @@ Les dades s'extreuen a partir de la cerca dels diversos festivals que es van don
 ## SECCIONS
 Es preten dividir la pàgina en diverses seccions amb el mapa principal situat al centre de la pàgina, els diversos géneres de música amb els que es classifica es situen en una barra a la part superior de la imatge i, finalment, una columna a la part esquerre de la pàgina web on es filtraran els festivals per mesos per donar opcions a tothom fora sobretot dels festivals més massificats que solen ser a l'estiu.
 
-## CARTOGRAFIA
+## MAPS
 Digitalitzar els diversos punts on es realitza el festival per a poder oferir l'informació d'una manera més gràfica.
