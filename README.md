@@ -4,7 +4,7 @@ els diversos festivals que es duen a terme a Europa. Amb aquesta mesura s'intent
 pel·liar la falta d'informació clara si es prefereix un génere de musica en concret 
 i es donaran a conèixer festivals que no eren tan reconeguts fins ara. 
 
-![foto](./imatge/bbf_imatge.jpg)
+![foto](./imatge/bbf.jpg)
 
 ## DADES
 Les dades s'extreuen a partir de la cerca dels diversos festivals que es van donant a Europa. Per tal de no reunir un nombre molt gran de dades es limitarà a un màxim de 40 festivals.
