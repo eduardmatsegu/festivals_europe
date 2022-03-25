@@ -18,6 +18,6 @@ Digitalitzar els diversos punts on es realitza el festival per a poder oferir l'
 ![foto](./imatge/primermapa.png)
 
 ## PROTOTIP DE LA PÀGINA
-En aquest apartat, es presenta ua petita idea de quina serà la disposició dels diversos elements de la pàgina
+En aquest apartat, es presenta ua petita idea de quina serà la disposició dels diversos elements de la pàgina, anteriorment ja descrits a l'apartat seccions
 
 ![foto](./imatge/idea_pagina.jpg)
