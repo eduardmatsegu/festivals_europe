@@ -15,3 +15,4 @@ Es preten dividir la pàgina en diverses seccions amb el mapa principal situat a
 ## MAPS
 Digitalitzar els diversos punts on es realitza el festival per a poder oferir l'informació d'una manera més gràfica.
 
+![foto](./imatge/primermapa.png)
