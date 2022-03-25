@@ -1,4 +1,4 @@
-# FESTIAVSL EUROPE
+# FESTIVALS EUROPE
 Elaborar una pàgina web que permeti als consumidors filtrar per gèneres musicals 
 els diversos festivals que es duen a terme a Europa. Amb aquesta mesura s'intentarà 
 pel·liar la falta d'informació clara si es prefereix un génere de musica en concret 
@@ -18,5 +18,6 @@ Digitalitzar els diversos punts on es realitza el festival per a poder oferir l'
 ![foto](./imatge/primermapa.png)
 
 ## PROTOTIP DE LA PÀGINA
+En aquest apartat, es presenta ua petita idea de quina serà la disposició dels diversos elements de la pàgina
 
 ![foto](./imatge/idea_pagina.jpg)
