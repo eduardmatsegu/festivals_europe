@@ -21,3 +21,7 @@ Digitalitzar els diversos punts on es realitza el festival per a poder oferir l'
 En aquest apartat, es presenta ua petita idea de quina serà la disposició dels diversos elements de la pàgina, anteriorment ja descrits a l'apartat seccions
 
 ![foto](./imatge/idea_pagina.jpg)
+
+
+file:///C:/Users/eduar/Documents/Geografia,%20An%C3%A0lisi%20Territorial%20I%20Sostenibilitat/PRODUCCI%C3%93%20I%20DISSENY%20CARTOGR%C3%80FIC/exemple/cvprod.html
+
